@@ -1,0 +1,20 @@
+body{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background: linear-gradient(135deg, #ff007b, #fff7fb);
+}
+
+h1{
+    color: white;
+    font-family: 'Momo Signature', cursive;
+    text-shadow: 0px 0px 20px white;
+    font-weight: 100;
+}
+
+p{
+    color: white;
+    font-family: 'Momo Signature', cursive;
+    font-size: 25px;
+}
